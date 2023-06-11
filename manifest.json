@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "日本語の翻訳をJava版に合わせました。",
+        "name": "JapaneseResourcesPack",
+        "uuid": "436c50df-e4ca-4c11-ae8e-ab7ec16c9bb4",
+        "version": [1, 20, 0],
+        "min_engine_version": [ 1, 20, 0 ]
+    },
+    "modules": [
+        {
+            "description": "Example vanilla resource pack",
+            "type": "resources",
+            "uuid": "16d22f77-2e18-41ca-8595-2c4dd37d82a6",
+            "version": [1, 20, 0]
+        }
+    ]
+}
